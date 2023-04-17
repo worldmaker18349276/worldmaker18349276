@@ -1,7 +1,7 @@
 ### Hi~
 I'm a physicist who loves computer science.
 
-I'm interesting on:
+I'm interested in:
 
 - ❖ twisty puzzles and other puzzle games
 - ▣ rhythm game
