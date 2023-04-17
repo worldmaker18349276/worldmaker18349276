@@ -6,4 +6,5 @@ I'm interesting on:
 - ❖ twisty puzzles and other puzzle games
 - ▣ rhythm game
 - λ lambda calculus and HM type system
+- 🐱 category theory
 - ◳ geometry and topology
