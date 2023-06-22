@@ -1,5 +1,5 @@
 ### Hi~
-I'm a physicist who loves computer science.
+I'm a physicist who loves math and computer science.
 
 I'm interested in:
 
